@@ -1,0 +1,9 @@
+<RCC>
+<!--
+    SPDX-FileCopyrightText: 2020 Andreas Cord-Landwehr <cordlandwehr@kde.org>
+    SPDX-License-Identifier: MIT
+-->
+    <qresource prefix="/">
+        <file>main.qml</file>
+    </qresource>
+</RCC>
